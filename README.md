@@ -3,7 +3,7 @@
 Fullstack/Backend engineer with 6+ years of experience, specializing in architecting and building scalable web applications from the ground up. Passionate about clean code, robust architecture, and crafting efficient solutions that scale.
 
 
-<h3 align="left">Adde me on linkedin:</h3>
+<h3 align="left">Add me on linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simão-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simão-santos" height="30" width="40" /></a>
 </p>
